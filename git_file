@@ -1,5 +1,9 @@
 hi welcome to devops
 today we started github
 hi good morning
+<<<<<<< HEAD
 new line added
 one more line added
+=======
+ambareesh
+>>>>>>> e61a39ad354bf6ea9e8c38e0b83277e02880eaab
